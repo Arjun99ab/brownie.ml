@@ -1,0 +1,13 @@
+body {
+    background-color: #985321;
+    font-family: "Nunito", sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
